@@ -11,3 +11,8 @@ function removeActiveClasses() {
         panel.classList.remove('active')
     })
 }
+
+let num = 10
+num = num + 5
+num = num *2
+console.log(num)
